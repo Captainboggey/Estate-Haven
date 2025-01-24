@@ -12,7 +12,7 @@ const Navbar = () => {
     
     </>
     return (
-        <div className="navbar bg-base-100 font-macondo animate__animated  animate__backInLeft">
+        <div className="navbar bg-base-100 font-macondo text-2xl animate__animated  animate__backInLeft">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
