@@ -35,7 +35,7 @@ const Navbar = () => {
                         {navLinks}
                     </ul>
                 </div>
-                <Link to={'/'}><a  className="btn btn-ghost text-3xl flex-col items-center "> <img className='w-10' src={logo} alt="" /> Estate Haven</a></Link>
+                <Link to={'/'}><h2  className="btn btn-ghost text-3xl flex-col items-center "> <img className='w-10' src={logo} alt="" /> Estate Haven</h2></Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
